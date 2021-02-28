@@ -1,0 +1,3 @@
+include ':launchSdk'
+include ':app'
+rootProject.name = "Jio"
